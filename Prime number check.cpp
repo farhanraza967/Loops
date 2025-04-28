@@ -4,6 +4,7 @@ int main(){
   int n;
     cout<<"Enter number: ";
     cin>> n;
+  
     if (n==1 || n<1){
         cout<<"neither prime nor composite";
     }
